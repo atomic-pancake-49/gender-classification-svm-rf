@@ -1,6 +1,6 @@
-# НИР — Задача 4: Классификация по полу (SVM vs Random Forest)
+# Gender Classification — SVM vs Random Forest
 
-Учебная научно-исследовательская работа. Вариант 3.
+Сравнение двух классификаторов на реальных HR-данных.
 
 ## Описание
 
@@ -28,5 +28,5 @@
 
 ```bash
 pip install pandas numpy scikit-learn
-jupyter notebook KMBO-11-24_Bazaev_Ivan__4.ipynb
+jupyter notebook gender-classification-svm-rf.ipynb
 ```
